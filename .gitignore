@@ -1,0 +1,14 @@
+
+mvnw
+
+mvnw.cmd
+
+target/classes/
+
+target/generated-sources/java/com/mongodb/demo/domain/
+
+target/maven-status/maven-compiler-plugin/compile/default-compile/
+
+target/test-classes/com/mongodb/demo/
+
+*.iml
